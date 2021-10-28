@@ -1,10 +1,18 @@
-# GraphiQL-Test
-Learning to use GraphiQL
+## How to install
 
-# How to Run
-Fork the branch and run a NPM install in your terminal to pull in the package.json dependencies.
-Next run node index.js (or what ever you name the file)
-Finally Navigate to the browser of your choice (chrome is recommended) and go to Localhost:5500/Graphql.
+Clone the repository and in the project directory, run:
 
-# Have fun in the Sandbox
-Enjoy the provided GraphiQL interface along with the test code to pratice query's and mutations.
+### `npm install`
+
+Installs the dependencies defined in the package.json
+
+## Available Scripts
+
+### `npm start`
+
+Runs the app.\
+Open [http://localhost:5500/graphql](http://localhost:5500/graphql) to view it in the browser.
+
+
+## Have fun in the Sandbox
+Enjoy the provided GraphQL interface along with the test code to pratice queries and mutations.
